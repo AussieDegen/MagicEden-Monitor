@@ -1,0 +1,39 @@
+{
+    "collection_monitor":true,
+
+    "discord_id": "",
+
+    "watch_list":[
+        {
+            "name":"dope_pirates",
+            "target_price":0.3,
+            "keywords": [
+                {
+                  "attribute": "Silver_earring",
+                  "target_price":0.5
+                },
+                {
+                  "attribute": "Modern_Pirate",
+                  "target_price":0.8
+                },
+                {
+                  "attribute": "Shipwright",
+                  "target_price":0.4
+                }
+            ]
+        },
+        {
+            "name":"cets_on_creck",
+            "target_price":10,
+            "keywords": []
+        },
+        {
+            "name":"degods",
+            "target_price":70,
+            "keywords": []
+        }
+
+    ]
+    
+
+}
